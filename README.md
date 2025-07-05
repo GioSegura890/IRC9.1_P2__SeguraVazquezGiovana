@@ -230,7 +230,7 @@ Login simulado en `login.html`. Recomendaciones:
 
 ## ✍️ Autor
 
-**Ángel Silvestre Gaitán Niño**  
+**Giovanna Marilu Segura Vazques**  
 Proyecto final — Automatización con Ansible, Docker, Flask y Kubernetes  
 Instituto IRC 9.1
 
