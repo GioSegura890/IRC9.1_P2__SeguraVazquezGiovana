@@ -230,9 +230,10 @@ Login simulado en `login.html`. Recomendaciones:
 
 ## ✍️ Autor
 
-**Giovanna Marilu Segura Vazquez**  
+**Giovana Marilu Segura Vazquez**  
 Proyecto final — Automatización con Ansible, Docker, Flask y Kubernetes  
-Instituto IRC 10.1
+Automatización de Infraestructura II
+IRC 10.1
 
 ---
 
